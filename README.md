@@ -1,2 +1,3 @@
 # CronoStudy
-Cronômetro para atividades de estudo desenvolvido em React
+
+Cronômetro para atividades de estudo desenvolvido com React e Typescript
